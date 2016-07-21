@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1459666530 source:/home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Bonus/SolverSistemaEcuaciones/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Matrix.h"
+	"MyRand.h"
+	"MonteCarlo.h"
+
+1459662255 source:/home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Bonus/SolverSistemaEcuaciones/MyRand.c
+	<stdlib.h>
+	<stdio.h>
+	<omp.h>
+	"Matrix.h"
+	"MyRand.h"
+
+1459661052 /home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Bonus/SolverSistemaEcuaciones/MyRand.h
+
+1459525615 /home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Bonus/SolverSistemaEcuaciones/Matrix.h
+
+1459663080 source:/home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Bonus/SolverSistemaEcuaciones/Matrix.c
+	<stdio.h>
+	<stdlib.h>
+	<mpi.h>
+	"Matrix.h"
+
+1459663080 source:/home/user/Dropbox/CIMAT/Paralelo/Bonus/SolverSistemaEcuaciones/Matrix.c
+	<stdio.h>
+	<stdlib.h>
+	<mpi.h>
+	"Matrix.h"
+
+1459525615 /home/user/Dropbox/CIMAT/Paralelo/Bonus/SolverSistemaEcuaciones/Matrix.h
+
+1459662255 source:/home/user/Dropbox/CIMAT/Paralelo/Bonus/SolverSistemaEcuaciones/MyRand.c
+	<stdlib.h>
+	<stdio.h>
+	<omp.h>
+	"Matrix.h"
+	"MyRand.h"
+
+1459661052 /home/user/Dropbox/CIMAT/Paralelo/Bonus/SolverSistemaEcuaciones/MyRand.h
+
+1459818593 source:/home/user/Dropbox/CIMAT/Paralelo/Bonus/SolverSistemaEcuaciones/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Matrix.h"
+	"MyRand.h"
+	"MonteCarlo.h"
+
+1459666626 /home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Bonus/SolverSistemaEcuaciones/MonteCarlo.h
+
+1459666807 source:/home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Bonus/SolverSistemaEcuaciones/MonteCarlo.c
+	<stdio.h>
+	<stdlib.h>
+	"omp.h"
+	"Matrix.h"
+	"MyRand.h"
+	"MonteCarlo.h"
+
+1459666807 source:/home/user/Dropbox/CIMAT/Paralelo/Bonus/SolverSistemaEcuaciones/MonteCarlo.c
+	<stdio.h>
+	<stdlib.h>
+	"omp.h"
+	"Matrix.h"
+	"MyRand.h"
+	"MonteCarlo.h"
+
+1459666626 /home/user/Dropbox/CIMAT/Paralelo/Bonus/SolverSistemaEcuaciones/MonteCarlo.h
+
+1459819326 source:/home/user/Dropbox/CIMAT/Paralelo/ProyectoFinal/SolverSistemaEcuacionesOpenMP/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Matrix.h"
+	"MyRand.h"
+	"MonteCarlo.h"
+
+1459525615 /home/user/Dropbox/CIMAT/Paralelo/ProyectoFinal/SolverSistemaEcuacionesOpenMP/Matrix.h
+
+1459661052 /home/user/Dropbox/CIMAT/Paralelo/ProyectoFinal/SolverSistemaEcuacionesOpenMP/MyRand.h
+
+1459666626 /home/user/Dropbox/CIMAT/Paralelo/ProyectoFinal/SolverSistemaEcuacionesOpenMP/MonteCarlo.h
+
+1459666807 source:/home/user/Dropbox/CIMAT/Paralelo/ProyectoFinal/SolverSistemaEcuacionesOpenMP/MonteCarlo.c
+	<stdio.h>
+	<stdlib.h>
+	"omp.h"
+	"Matrix.h"
+	"MyRand.h"
+	"MonteCarlo.h"
+
+1459662255 source:/home/user/Dropbox/CIMAT/Paralelo/ProyectoFinal/SolverSistemaEcuacionesOpenMP/MyRand.c
+	<stdlib.h>
+	<stdio.h>
+	<omp.h>
+	"Matrix.h"
+	"MyRand.h"
+
